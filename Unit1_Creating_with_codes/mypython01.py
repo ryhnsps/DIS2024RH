@@ -13,4 +13,4 @@ print(type(age))
 age = 20+age
 
 # Output
-# print( "Hi, +name. " Your age in 20 years will be", age )
+print("Hi, " +name, "Your age in 20 years will be ", age)
